@@ -10,11 +10,11 @@ This B.Tech project uses machine learning algorithms to classify jobs based on j
 - Predict job classifications using input attributes
 
 ## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Streamlit
+- **Programming Language:** Python 3.11
+- **IDE:** PyCharm
+- **Web Application:** Streamlit
+- **Data Processing:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn
 
 ## Dataset
 The project uses `jobclassinfo2.csv` for model training and evaluation.
@@ -35,13 +35,6 @@ The project uses `jobclassinfo2.csv` for model training and evaluation.
    ```
 
 4. Open the local URL displayed in your terminal.
-
-## Technologies Used
-- **Programming Language:** Python 3.11
-- **IDE:** PyCharm
-- **Web Application:** Streamlit
-- **Data Processing:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn
 
 ## Project Files
 - `main.py` — machine learning implementation
