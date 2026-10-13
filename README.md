@@ -44,3 +44,14 @@ The project uses `jobclassinfo2.csv` for model training and evaluation.
 
 ## Disclaimer
 This repository contains an academic project. Model performance depends on the dataset and evaluation methodology.
+
+## Application Screenshots
+
+### Main Application
+![Job Classification Application](job-classification-app%201.png)
+
+### Dataset and Model Evaluation
+![Dataset and Model Evaluation](job-classification-app%202.png)
+
+### Prediction Interface
+![Job Classification Prediction](job-classification-app%203.png)
